@@ -30,7 +30,7 @@ The Memory Game is a fun and interactive web-based game designed to enhance memo
 
 ## Demo
 
-Check out the live demo of the Memory Game [here](). Play the game and experience the fun directly in your browser!
+Check out the live demo of the Memory Game [here](https://memorypuzzleguvi.netlify.app/). Play the game and experience the fun directly in your browser!
 
 ## Game Rules
 
@@ -54,5 +54,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 We welcome contributions! If you have suggestions or improvements, please fork the repository and submit a pull request. We appreciate any feedback or enhancements.
 
 ---
-
-Feel free to adjust the content, especially the demo link, to fit your actual project and its specific needs.
